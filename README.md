@@ -1,6 +1,6 @@
 # IBM Databases and SQL for Data Science with Python
 
-This repository contains my coursework and completed projects for the **Databases and SQL for Data Science with Python** course, provided by IBM on Coursera.
+This repository contains my coursework and completed projects for the [**Databases and SQL for Data Science with Python**](https://www.coursera.org/learn/sql-data-science) course, provided by **IBM** on **Coursera**.
 
 The notebooks demonstrate the integration of SQL with Python for data analysis, utilizing real-world datasets related to the City of Chicago (Census, Public Schools, and Crime data).
 
